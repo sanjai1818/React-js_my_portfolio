@@ -31,6 +31,15 @@ const HeroSection = () => {
 <ResumeButton href={Bio.resume} target="_blank" rel="noreferrer">
   Check Resume
 </ResumeButton>
+
+{/* <a 
+  href={`${process.env.PUBLIC_URL}/Sanjai_M_Resume.pdf`} 
+  target="_blank" 
+  rel="noopener noreferrer"
+>
+  Resume
+</a> */}
+
                     </HeroLeftContainer>
 
                     <HeroRightContainer id="Right">
