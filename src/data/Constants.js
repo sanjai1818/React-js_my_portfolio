@@ -513,6 +513,36 @@ export const projects = [
   },
 
 
+{
+id: 5,
+    title: "Library Management System",
+    // date: "Apr 2023 - May 2023",
+    description:
+      " The Library Management System is a database-driven application designed to efficiently manage a library’s day-to-day operations such as tracking books, members, and transactions. The system is built using MySQL for database management and provides an organized structure for handling large volumes of data.Book Management: Add, update, delete, and search books with details like title, author, genre, and availability status.Member Management: Maintain student/member records with personal details and unique IDs.",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1vRHiWpnYseQTOEUUWTPSWRJawCr0Aj9phbSWLbcxz1PDg3bRv6PmUzdWm5wz40X1ek8&usqp=CAU",
+    tags: ["Mysql"],
+    category: "Library Management System",
+    github: "https://github.com/sanjai1818/sql-library-proj",
+    webapp: "",
+    // member: [
+    //   {
+    //     name: "Rishav Chanda",
+    //     img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+    //     linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+    //     github: "https://github.com/rishavchanda/",
+    //   },
+    //   {
+    //     name: "Upasana Chaudhuri",
+    //     img: "https://avatars.githubusercontent.com/u/100614635?v=4",
+    //     linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+    //     github: "https://github.com/upasana0710",
+    //   },
+    // ],
+  },
+  
+
+
 
 
 
