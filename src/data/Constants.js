@@ -7,7 +7,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/sanjai1818?tab=repositories",
-    resume: process.env.PUBLIC_URL + "/Sanjai_M_Resume.pdf?v=1",
+    resume: process.env.PUBLIC_URL + "/Sanjai_M_B_C0M__Computer_Application__2024_7_9_CGPA_Java_Full_Stack_Developer.pdf?v=1",
   linkedin: "https://www.linkedin.com/in/sanjai-m-00593528a/",
   
 };
@@ -345,18 +345,37 @@ export const projects = [
   
 
 
-
-
-
-
-
-
-  
-  
+  {
+    id: 1,
+    title: "Gemini AI Chat Clone",
+    // date: "Apr 2023 - May 2023",
+    description:
+      " A smart and interactive AI chat application built using React.js and Google Gemini API, designed to provide real-time, human-like responses. The app features a clean and responsive chat interface, smooth message rendering, and seamless API integration. Built with a modular component structure and modern React Hooks, this project demonstrates strong frontend development skills and the ability to work with advanced AI APIs.",
+    image:
+      "https://localiq.com/wp-content/uploads/2024/02/google-gemini-ai-chatbot.webp",
+    tags: ["React-js","Gemini API"],
+    category: "Gemini AI Chat Clone",
+    github: "https://github.com/sanjai1818/Gemini-clone",
+    webapp: "https://gemini-clone-eight-dusky.vercel.app/",
+    // member: [
+    //   {
+    //     name: "Rishav Chanda",
+    //     img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+    //     linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+    //     github: "https://github.com/rishavchanda/",
+    //   },
+    //   {
+    //     name: "Upasana Chaudhuri",
+    //     img: "https://avatars.githubusercontent.com/u/100614635?v=4",
+    //     linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+    //     github: "https://github.com/upasana0710",
+    //   },
+    // ],
+  },
   
   
   {
-    id: 1,
+    id: 2,
     title: "Movie-Search-App",
     // date: "Oct 2022 - Present",
     description:
@@ -376,7 +395,7 @@ export const projects = [
     webapp: "https://movie-search-app-clean.vercel.app/",
   },
   {
-    id: 2,
+    id: 3,
     title: "Flight-Ticket-Booking-Website",
     // date: "Jan 2023 - Mar 2023",
     description:
@@ -403,7 +422,7 @@ export const projects = [
     // ],
   },
   {
-    id: 3,
+    id: 4,
     title: "Barber Shop Website",
     // date: "Dec 2021 - Apr 2022",
     description:
@@ -499,7 +518,7 @@ export const projects = [
 
 
  {
-    id: 4,
+    id: 5,
     title: "Employee Management System",
     // date: "Dec 2021 - Apr 2022",
     description:
@@ -514,7 +533,7 @@ export const projects = [
 
 
 {
-id: 5,
+id: 6,
     title: "Library Management System",
     // date: "Apr 2023 - May 2023",
     description:
