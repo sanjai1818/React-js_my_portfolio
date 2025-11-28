@@ -21,16 +21,17 @@ export const skills = [
         image:
           "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
       },
+        
     //   {
     //     name: "Redux",
     //     image:
     //       "https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg",
     //   },
-    //   {
-    //     name: "Next Js",
-    //     image:
-    //       "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
-    //   },
+      {
+        name: "Next Js",
+        image:
+          "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
+      },
       {
         name: "HTML",
         image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
@@ -65,10 +66,15 @@ export const skills = [
   {
     title: "Backend",
     skills: [
-      {
-        name: "Spring",
-        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8i4zPog-0j0JR_yZglxPhTPZXxN2iMTQ3Dw&s",
+       {
+        name: "Java",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
       },
+      // {
+      //   name: "Spring",
+      //   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8i4zPog-0j0JR_yZglxPhTPZXxN2iMTQ3Dw&s",
+      // },
     //   {
     //     name: "Spring Boot",
     //     image:
@@ -76,13 +82,9 @@ export const skills = [
     //   },
       {
         name: "Spring Boot",
-        image: "https://i.pinimg.com/564x/bd/e9/75/bde975558b82fd6c2cb9c8e2a15339fc.jpg",
+        image:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoUWKYgsfQmi5R7AWA93IFqcmDYMqV39wkrw&s"
       },
-    //   {
-    //     name: "Python",
-    //     image:
-    //       "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
-    //   },
       {
         name: "MySQL",
         image:
@@ -92,19 +94,27 @@ export const skills = [
     //     name: "Postgresql",
     //     image: "https://www.postgresql.org/media/img/about/press/elephant.png",
     //   },
-    //   {
-    //     name: "MongoDB",
-    //     image:
-    //       "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
-    //   },
+      
     //   {
     //     name: "Firebase",
     //     image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
     //   },
-     {
-        name: "Java",
+    
+      {
+        name: "Node js",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
+          "https://images.ctfassets.net/aq13lwl6616q/7cS8gBoWulxkWNWEm0FspJ/c7eb42dd82e27279307f8b9fc9b136fa/nodejs_cover_photo_smaller_size.png",
+      },
+
+      {
+        name: "Express js",
+        image:
+          "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fhpg6if7btrwilqkidqbe.png",
+      },
+      {
+        name: "MongoDB",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
       },
     ],
   },
@@ -151,11 +161,11 @@ export const skills = [
         image:
           "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Yhw42q0qIFHidZM0XczKe5jnshk8XXdfDg&s"
       },
-    //   {
-    //     name: "Netlify",
-    //     image:
-    //       "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
-    //   },
+      {
+        name: "Vercel",
+        image:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK1FvtIAK20joKk2pYoVx-KkA8xFQZVtH4hw&s",
+      },
       {
         name: "VS Code",
         image:
@@ -259,6 +269,22 @@ export const education = [
 ];
 
 export const projects = [
+      {
+    id: 0,
+    title: "QR Generator App",
+    // date: "Dec 2020 - Jan 2021",
+    description:
+    "Built a fully responsive QR Code Generator App in React JS that dynamically generates QR codes based on user input. The project uses React Hooks (useState) for state management and react-qr-code / qrcode npm package for rendering high-quality QR codes. Users can enter text/URL, view real-time QR updates, and download the QR code as an image.",
+    image:
+     "https://i.ytimg.com/vi/3hM7cK7Mf0k/maxresdefault.jpg",
+    tags: ["React-js"],
+    category: "QR Generator App",
+    github: "https://github.com/sanjai1818/QrCode-App",
+    webapp: "https://qr-code-app-topaz.vercel.app/",
+  },
+
+
+
 //   {
 //     id: 9,
 //     title: "Trackify",
@@ -312,40 +338,8 @@ export const projects = [
 //     ],
 //   },
   
-  
 
 {
-    id: 0,
-    title: "E-Commerce Website",
-    // date: "Apr 2023 - May 2023",
-    description:
-      " Built a responsive e-commerce website using HTML, CSS, and JavaScript with product listings, category filters, and a product detail page.Implemented a shopping cart with add/remove functionality and client-side form validation for better user experience.Designed a clean, mobile-friendly UI with animations and hover effects to enhance interactivity.",
-    image:
-      "https://repository-images.githubusercontent.com/456963513/82528385-a73f-488f-9003-513321283a6b",
-    tags: ["HTML", "CSS", "Javascript"],
-    category: "E-Commerce Website",
-    github: "https://github.com/sanjai1818/e-commerce-",
-    webapp: "https://sanjai1818.github.io/e-commerce-/",
-    // member: [
-    //   {
-    //     name: "Rishav Chanda",
-    //     img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-    //     linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-    //     github: "https://github.com/rishavchanda/",
-    //   },
-    //   {
-    //     name: "Upasana Chaudhuri",
-    //     img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-    //     linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-    //     github: "https://github.com/upasana0710",
-    //   },
-    // ],
-  },
-  
-  
-
-
-  {
     id: 1,
     title: "Gemini AI Chat Clone",
     // date: "Apr 2023 - May 2023",
@@ -374,8 +368,37 @@ export const projects = [
   },
   
   
-  {
+
+{
     id: 2,
+    title: "E-Commerce Website",
+    // date: "Apr 2023 - May 2023",
+    description:
+      " Built a responsive e-commerce website using HTML, CSS, and JavaScript with product listings, category filters, and a product detail page.Implemented a shopping cart with add/remove functionality and client-side form validation for better user experience.Designed a clean, mobile-friendly UI with animations and hover effects to enhance interactivity.",
+    image:
+      "https://repository-images.githubusercontent.com/456963513/82528385-a73f-488f-9003-513321283a6b",
+    tags: ["HTML", "CSS", "Javascript"],
+    category: "E-Commerce Website",
+    github: "https://github.com/sanjai1818/e-commerce-",
+    webapp: "https://sanjai1818.github.io/e-commerce-/",
+    // member: [
+    //   {
+    //     name: "Rishav Chanda",
+    //     img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+    //     linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+    //     github: "https://github.com/rishavchanda/",
+    //   },
+    //   {
+    //     name: "Upasana Chaudhuri",
+    //     img: "https://avatars.githubusercontent.com/u/100614635?v=4",
+    //     linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+    //     github: "https://github.com/upasana0710",
+    //   },
+    // ],
+  },
+  
+   {
+    id: 3,
     title: "Movie-Search-App",
     // date: "Oct 2022 - Present",
     description:
@@ -395,7 +418,7 @@ export const projects = [
     webapp: "https://movie-search-app-clean.vercel.app/",
   },
   {
-    id: 3,
+    id: 4,
     title: "Flight-Ticket-Booking-Website",
     // date: "Jan 2023 - Mar 2023",
     description:
@@ -422,7 +445,7 @@ export const projects = [
     // ],
   },
   {
-    id: 4,
+    id: 5,
     title: "Barber Shop Website",
     // date: "Dec 2021 - Apr 2022",
     description:
@@ -518,7 +541,7 @@ export const projects = [
 
 
  {
-    id: 5,
+    id: 6,
     title: "Employee Management System",
     // date: "Dec 2021 - Apr 2022",
     description:
@@ -533,7 +556,7 @@ export const projects = [
 
 
 {
-id: 6,
+id: 7,
     title: "Library Management System",
     // date: "Apr 2023 - May 2023",
     description:
